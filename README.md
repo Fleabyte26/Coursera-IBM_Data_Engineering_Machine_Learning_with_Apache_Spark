@@ -2,7 +2,7 @@
 
 This lab is not bug ridden, just excessively long and tedious, like wading through diarrhea trying to learn despite an instructor nots so concerned with helping students learn (opinion)
 
-All the steps are listed in the attached juytor source file "final project"
+All the steps are listed in the attached jupytor source file "final project"  You will need to downlaod that, then upload it into the jupytor notebook in parallel to the one you are completing in your lab
 
 The answers to the final test are as follows:
 
