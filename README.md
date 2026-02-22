@@ -1,4 +1,5 @@
-# Coursera-IBM_Data_Engineering_Machine_Learning_with_Apache_Spark
+# Coursera-IBM_Data_Engineering_Machine_Learning_with_Apache_Spark_Final_Project
+Build a Machine Laerning Pipeline for Airfoil Noise Reduction
 
 This lab is not bug ridden, just excessively long and tedious, like wading through diarrhea trying to learn despite an instructor nots so concerned with helping students learn (opinion)
 
